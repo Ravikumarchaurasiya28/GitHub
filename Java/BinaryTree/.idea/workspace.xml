@@ -2,57 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfbada2f-9b2a-40c3-bd05-ad139e3446fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Strings/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/PalindromeSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/ReverseWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strings/StringCompression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Functional/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Functional/.idea/Functional.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Functional/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Functional/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Functional/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Functional/Funtion/Info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Functional/Funtion/ValidNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Functional/out/production/Functional/ValidNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/ArrayLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/BackTracking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/Bubble_Sorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/CarMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/EqualSubArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/HashMapSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/HashMapString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/LinkedList$node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/MatrixMultiplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/MatrixSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/OuterMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/Pen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/Permutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/PrefixSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/RotateKTimes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/SetClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/SetCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/SlinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/SortedOrNot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/SquareSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/Sum_Natural.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/TowerOfHanoi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/Transpose.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/insertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/oopsPen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/GitHub/power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,15 +20,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "D:/GitHub/Java/BinaryTree/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GitHub/Java/BinaryTree&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/GitHub/Java/BinaryTree/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="cfbada2f-9b2a-40c3-bd05-ad139e3446fe" name="Changes" comment="" />
